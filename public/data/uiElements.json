@@ -1,0 +1,48 @@
+{
+  "elements": [
+    {
+      "scene": "cookie",
+      "bg": "/img/uiElements/cookieScene/bg.png",
+      "field": "/img/uiElements/cookieScene/field.png",
+      "elements": [
+        "/img/uiElements/cookieScene/1.png",
+        "/img/uiElements/cookieScene/2.png",
+        "/img/uiElements/cookieScene/3.png",
+        "/img/uiElements/cookieScene/4.png"
+      ]
+    },
+    {
+      "scene": "flower",
+      "bg": "/img/uiElements/flowerScene/bg.png",
+      "field": "/img/uiElements/flowerScene/field.png",
+      "elements": [
+        "/img/uiElements/flowerScene/1.png",
+        "/img/uiElements/flowerScene/2.png",
+        "/img/uiElements/flowerScene/3.png",
+        "/img/uiElements/flowerScene/4.png"
+      ]
+    },
+    {
+      "scene": "holiday",
+      "bg": "/img/uiElements/holidayScene/bg.png",
+      "field": "/img/uiElements/holidayScene/field.png",
+      "elements": [
+        "/img/uiElements/holidayScene/1.png",
+        "/img/uiElements/holidayScene/2.png",
+        "/img/uiElements/holidayScene/3.png",
+        "/img/uiElements/holidayScene/4.png",
+        "/img/uiElements/holidayScene/5.png"
+      ]
+    },
+    {
+      "scene": "money",
+      "bg": "/img/uiElements/moneyScene/bg.png",
+      "field": "/img/uiElements/moneyScene/field.png",
+      "elements": [
+        "/img/uiElements/moneyScene/1.png",
+        "/img/uiElements/moneyScene/2.png",
+        "/img/uiElements/moneyScene/3.png"
+      ]
+    }
+  ]
+}
